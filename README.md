@@ -45,10 +45,13 @@ also this program allows you to know the value of dollar compared to the digital
 
 
 # user Journey <span id=" user Journey"></span>
-**First**: When the user opens the application, a small card appears to him consisting of a simple       explanation of the application, then the user presses the start button.
-**Second**: the home page appears at the beginning of the page there is an icon with which the user can view the page in dark mode.
-**Third**: The user chooses the currency he wants to convert into dollars, then writes the number he  wants to convert, and then shows the user the number in the chosen currency equal to the dollar number he needs.
-**Fourth**: The value of the number appears in dollars for some of the digital currencies used in the application, which are Bitcoin, Ethereum, Chainlink, and Litecoin.
+- **First**: When the user opens the application, a small card appears to him consisting of a simple  explanation of the application, then the user presses the start button.
+
+- **Second**: the home page appears at the beginning of the page there is an icon with which the user can view the page in dark mode.
+
+- **Third**: The user chooses the currency he wants to convert into dollars, then writes the number he  wants to convert, and then shows the user the number in the chosen currency equal to the dollar number he needs.
+
+- **Fourth**: The value of the number appears in dollars for some of the digital currencies used in the application, which are Bitcoin, Ethereum, Chainlink, and Litecoin.
 
 
 # user Stories <span id="user Stories"></span>
